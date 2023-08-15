@@ -1,5 +1,4 @@
-# GRIP_intern_datascience_project
-## BATHULA SAI CHARAN
+
 
 building a hybrid model for predicting stocks using  news  and numeric info 
 
